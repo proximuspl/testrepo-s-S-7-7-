@@ -1,1 +1,2 @@
 test file <s>S S $${{7*7}}
+<hr>123<marquee>444<hr>123<marquee>444<hr>123<marquee>444
