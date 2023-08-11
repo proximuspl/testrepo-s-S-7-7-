@@ -1,14 +1,23 @@
 version: "1"
 
 stack_defaults:
+
  #   runner_image: your/first:runner
+
+ #   runner_image: your/first:runner
+
     # Note that tflint is not installed by
     # default - this example assumes that your
     # runner image has this available.
     before_init:
         - terraform fmt -check
+
      #   - tflint
         - echo 7777777777
+
+     #   - tflint
+        - echo 7777777777
+
 
 # Note that every field in the configuration is
 # optional, and has a reasonable default. This file
